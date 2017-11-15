@@ -1,146 +1,148 @@
 # sHerc
 Traduccion semi-oficial de los archivos script del emulador Hercules
 
+Lista de scripts completados
+-------------
+<br> (Completado) MOTD.txt
+<br> (Completado) cities/alberta.txt
+<br> (Completado) cities/aldebaran.txt
+<br> (Completado) cities/amatsu.txt
+<br> (Completado) cities/ayothaya.txt
+<br> (Completado) cities/comodo.txt
+<br> (Completado) cities/einbech.txt
+<br> (Completado) cities/einbroch.txt
+<br> (Completado) cities/geffen.txt
+<br> (Completado) cities/gonryun.txt
+<br> (Completado) cities/hugel.txt
+<br> (Completado) cities/izlude.txt
+<br> (Completado) cities/jawaii.txt
+<br> (Completado) cities/lighthalzen.txt
+<br> (Completado) cities/louyang.txt
+<br> (Completado) cities/lutie.txt
+<br> (Completado) cities/manuk.txt
+<br> (Completado) cities/morocc.txt
+<br> (Completado) cities/moscovia.txt
+<br> (Completado) cities/niflheim.txt
+<br> (Completado) cities/payon.txt
+<br> (Completado) cities/prontera.txt
+<br> (Completado) cities/rachel.txt
+<br> (Completado) cities/splendide.txt
+<br> (Completado) cities/umbala.txt
+<br> (Completado) cities/veins.txt
+<br> (Completado) cities/yuno.txt
+<br> (Completado) instances/EndlessTower.txt
+<br> (Completado) merchants/advanced_refiner.txt
+<br> (Completado) merchants/alchemist.txt
+<br> (Completado) merchants/coin_exchange.txt
+<br> (Completado) merchants/enchan_arm.txt
+<br> (Completado) merchants/gemstone.txt
+<br> (Completado) merchants/milk_trader.txt
+<br> (Completado) other/divorce.txt
+<br> (Completado) quests/quests_13_1.txt
+<br> (Completado) quests/quests_moscovia.txt
+<br> (Completado) quests/quests_nameless.txt
+<br> (Completado) jobs/1-1e/gunslinger.txt
+<br> (Completado) jobs/1-1e/ninja.txt
+<br> (Completado) jobs/1-1e/taekwon.txt
+<br> (Completado) jobs/2-1a/AssassinCross.txt
+<br> (Completado) jobs/2-1a/HighPriest.txt
+<br> (Completado) jobs/2-1a/HighWizard.txt
+<br> (Completado) jobs/2-1a/LordKnight.txt
+<br> (Completado) jobs/2-1a/Sniper.txt
+<br> (Completado) jobs/2-1a/WhiteSmith.txt
+<br> (Completado) jobs/2-2a/Champion.txt
+<br> (Completado) jobs/2-2a/Clown.txt
+<br> (Completado) jobs/2-2a/Creator.txt
+<br> (Completado) jobs/2-2a/Gypsy.txt
+<br> (Completado) jobs/2-2a/Paladin.txt
+<br> (Completado) jobs/2-2a/Professor.txt
+<br> (Completado) jobs/2-2a/Stalker.txt
+<br> (Completado) jobs/valkyrie.txt
+<br> (Completado) warps/dungeons/mosk_dun.txt
+<br> (Completado) re/cities/brasilis.txt
+<br> (Completado) re/cities/dewata.txt
+<br> (Completado) re/cities/malangdo.txt
+<br> (Completado) re/cities/malaya.txt
+<br> (Completado) re/cities/mora.txt
+<br> (Completado) re/guides/navigation.txt
+<br> (Completado) re/guides/guides_alberta.txt
+<br> (Completado) re/guides/guides_aldebaran.txt
+<br> (Completado) re/guides/guides_amatsu.txt
+<br> (Completado) re/guides/guides_ayothaya.txt
+<br> (Completado) re/guides/guides_brasilis.txt
+<br> (Completado) re/guides/guides_comodo.txt
+<br> (Completado) re/guides/guides_dewata.txt
+<br> (Completado) re/guides/guides_dicastes.txt
+<br> (Completado) re/guides/guides_einbroch.txt
+<br> (Completado) re/guides/guides_geffen.txt
+<br> (Completado) re/guides/guides_gonryun.txt
+<br> (Completado) re/guides/guides_hugel.txt
+<br> (Completado) re/guides/guides_izlude.txt
+<br> (Completado) re/guides/guides_juno.txt
+<br> (Completado) re/guides/guides_lighthalzen.txt
+<br> (Completado) re/guides/guides_louyang.txt
+<br> (Completado) re/guides/guides_lutie.txt
+<br> (Completado) re/guides/guides_malaya.txt
+<br> (Completado) re/guides/guides_mora.txt
+<br> (Completado) re/guides/guides_morroc.txt
+<br> (Completado) re/guides/guides_moscovia.txt
+<br> (Completado) re/guides/guides_niflheim.txt
+<br> (Completado) re/guides/guides_payon.txt
+<br> (Completado) re/guides/guides_prontera.txt
+<br> (Completado) re/guides/guides_rachel.txt
+<br> (Completado) re/guides/guides_umbala.txt
+<br> (Completado) re/guides/guides_veins.txt
+<br> (Completado) re/instances/BakonawaLake.txt
+<br> (Completado) re/instances/BangungotHospital.txt
+<br> (Completado) re/instances/BuwayaCave.txt
+<br> (Completado) re/instances/HazyForest.txt
+<br> (Completado) re/instances/horror_toy_factory.txt
+<br> (Completado) re/instances/MalangdoCulvert.txt
+<br> (Completado) re/instances/octopus_cave.txt
+<br> (Completado) re/instances/WolfchevLaboratory.txt
+<br> (Completado) re/merchants/card_separation.txt
+<br> (Completado) re/merchants/catalog.txt
+<br> (Completado) re/merchants/coin_exchange.txt
+<br> (Completado) re/merchants/enchan_htf.txt
+<br> (Completado) re/merchants/enchan_mal.txt
+<br> (Completado) re/merchants/enchan_mora.txt
+<br> (Completado) re/merchants/ticket_refiner.txt
+<br> (Completado) re/quests/eden/11-25.txt
+<br> (Completado) re/quests/eden/26-40.txt
+<br> (Completado) re/quests/eden/41-55.txt
+<br> (Completado) re/quests/eden/56-70.txt
+<br> (Completado) re/quests/eden/71-85.txt
+<br> (Completado) re/quests/eden/86-90.txt
+<br> (Completado) re/quests/eden/91-99.txt
+<br> (Completado) re/quests/eden/100-110.txt
+<br> (Completado) re/quests/eden/111-120.txt
+<br> (Completado) re/quests/eden/121-130.txt
+<br> (Completado) re/quests/eden/131-140.txt
+<br> (Completado) re/quests/eden/eden_common.txt
+<br> (Completado) re/quests/eden/eden_quests.txt
+<br> (Completado) re/quests/eden/eden_service.txt
+<br> (Completado) re/quests/eden/eden_tutorial.txt
+<br> (Completado) re/quests/quests_dewata.txt
+<br> (Completado) re/quests/quests_malangdo.txt
+<br> (Completado) re/quests/quests_malaya.txt
+<br> (Completado) re/quests/quests_mora.txt
+<br> (Completado) re/woe-fe/invest_main.txt
+<br> (Completado) re/jobs/3-1/archbishop.txt
+<br> (Completado) re/jobs/3-1/mechanic.txt
+<br> (Completado) re/jobs/3-1/ranger.txt
+<br> (Completado) re/jobs/3-1/rune_knight.txt
+<br> (Completado) re/jobs/3-1/warlock.txt
+<br> (Completado) re/jobs/3-1/guillotine_cross.txt
+<br> (Completado) re/jobs/3-2/genetic.txt
+<br> (Completado) re/jobs/3-2/minstrel.txt
+<br> (Completado) re/jobs/3-2/royal_guard.txt
+<br> (Completado) re/jobs/3-2/shadow_chaser.txt
+<br> (Completado) re/jobs/3-2/sorcerer.txt
+<br> (Completado) re/jobs/3-2/sura.txt
+<br> (Completado) re/jobs/3-2/wanderer.txt
+<br> (Completado) re/warps/cities/malaya.txt
+<br> (Completado) re/warps/dungeons/iz_dun.txt
+<br> (Completado) re/warps/fields/bif_fild.txt
 
-100% Traducidos
-
-MOTD.txt
-cities/alberta.txt
-cities/aldebaran.txt
-cities/amatsu.txt
-cities/ayothaya.txt
-cities/comodo.txt
-cities/einbech.txt
-cities/einbroch.txt
-cities/geffen.txt
-cities/gonryun.txt
-cities/hugel.txt
-cities/izlude.txt
-cities/jawaii.txt
-cities/lighthalzen.txt
-cities/louyang.txt
-cities/lutie.txt
-cities/manuk.txt
-cities/morocc.txt
-cities/moscovia.txt
-cities/niflheim.txt
-cities/payon.txt
-cities/prontera.txt
-cities/rachel.txt
-cities/splendide.txt
-cities/umbala.txt
-cities/veins.txt
-cities/yuno.txt
-instances/EndlessTower.txt
-merchants/advanced_refiner.txt
-merchants/alchemist.txt
-merchants/coin_exchange.txt
-merchants/enchan_arm.txt
-merchants/gemstone.txt
-merchants/milk_trader.txt
-other/divorce.txt
-quests/quests_13_1.txt
-quests/quests_moscovia.txt
-quests/quests_nameless.txt
-jobs/1-1e/gunslinger.txt
-jobs/1-1e/ninja.txt
-jobs/1-1e/taekwon.txt
-jobs/2-1a/AssassinCross.txt
-jobs/2-1a/HighPriest.txt
-jobs/2-1a/HighWizard.txt
-jobs/2-1a/LordKnight.txt
-jobs/2-1a/Sniper.txt
-jobs/2-1a/WhiteSmith.txt
-jobs/2-2a/Champion.txt
-jobs/2-2a/Clown.txt
-jobs/2-2a/Creator.txt
-jobs/2-2a/Gypsy.txt
-jobs/2-2a/Paladin.txt
-jobs/2-2a/Professor.txt
-jobs/2-2a/Stalker.txt
-jobs/valkyrie.txt
-warps/dungeons/mosk_dun.txt
-re/cities/brasilis.txt
-re/cities/dewata.txt
-re/cities/malangdo.txt
-re/cities/malaya.txt
-re/cities/mora.txt
-re/guides/navigation.txt
-re/guides/guides_alberta.txt
-re/guides/guides_aldebaran.txt
-re/guides/guides_amatsu.txt
-re/guides/guides_ayothaya.txt
-re/guides/guides_brasilis.txt
-re/guides/guides_comodo.txt
-re/guides/guides_dewata.txt
-re/guides/guides_dicastes.txt
-re/guides/guides_einbroch.txt
-re/guides/guides_geffen.txt
-re/guides/guides_gonryun.txt
-re/guides/guides_hugel.txt
-re/guides/guides_izlude.txt
-re/guides/guides_juno.txt
-re/guides/guides_lighthalzen.txt
-re/guides/guides_louyang.txt
-re/guides/guides_lutie.txt
-re/guides/guides_malaya.txt
-re/guides/guides_mora.txt
-re/guides/guides_morroc.txt
-re/guides/guides_moscovia.txt
-re/guides/guides_niflheim.txt
-re/guides/guides_payon.txt
-re/guides/guides_prontera.txt
-re/guides/guides_rachel.txt
-re/guides/guides_umbala.txt
-re/guides/guides_veins.txt
-re/instances/BakonawaLake.txt
-re/instances/BangungotHospital.txt
-re/instances/BuwayaCave.txt
-re/instances/HazyForest.txt
-re/instances/horror_toy_factory.txt
-re/instances/MalangdoCulvert.txt
-re/instances/octopus_cave.txt
-re/instances/WolfchevLaboratory.txt
-re/merchants/card_separation.txt
-re/merchants/catalog.txt
-re/merchants/coin_exchange.txt
-re/merchants/enchan_htf.txt
-re/merchants/enchan_mal.txt
-re/merchants/enchan_mora.txt
-re/merchants/ticket_refiner.txt
-re/quests/eden/11-25.txt
-re/quests/eden/26-40.txt
-re/quests/eden/41-55.txt
-re/quests/eden/56-70.txt
-re/quests/eden/71-85.txt
-re/quests/eden/86-90.txt
-re/quests/eden/91-99.txt
-re/quests/eden/100-110.txt
-re/quests/eden/111-120.txt
-re/quests/eden/121-130.txt
-re/quests/eden/131-140.txt
-re/quests/eden/eden_common.txt
-re/quests/eden/eden_quests.txt
-re/quests/eden/eden_service.txt
-re/quests/eden/eden_tutorial.txt
-re/quests/quests_dewata.txt
-re/quests/quests_malangdo.txt
-re/quests/quests_malaya.txt
-re/quests/quests_mora.txt
-re/woe-fe/invest_main.txt
-re/jobs/3-1/archbishop.txt
-re/jobs/3-1/mechanic.txt
-re/jobs/3-1/ranger.txt
-re/jobs/3-1/rune_knight.txt
-re/jobs/3-1/warlock.txt
-re/jobs/3-1/guillotine_cross.txt
-re/jobs/3-2/genetic.txt
-re/jobs/3-2/minstrel.txt
-re/jobs/3-2/royal_guard.txt
-re/jobs/3-2/shadow_chaser.txt
-re/jobs/3-2/sorcerer.txt
-re/jobs/3-2/sura.txt
-re/jobs/3-2/wanderer.txt
-re/warps/cities/malaya.txt
-re/warps/dungeons/iz_dun.txt
-re/warps/fields/bif_fild.txt
+En progreso...
+-------------
